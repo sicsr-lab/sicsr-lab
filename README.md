@@ -10,7 +10,9 @@ The official website of SICSR Lab. It will be hosted over GitHub Pages showcasin
 * Boostrap
 
 **Number of member/s required:** 0
+
 **Start Date:** 11-09-2020
+
 **Expected Deadline:** 07-10-2020
 
 ## **Contributors**
